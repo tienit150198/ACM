@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539980596 source:d:\acm\20181018\cdie\main.cpp
+	<iostream>
+	<algorithm>
+
